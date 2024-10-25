@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I’m a **JavaScript / React Developer** with a pa
 - **Languages & Frameworks:** JavaScript, TypeScript, React, Next.js
 - **Styling:** TailwindCSS, SASS
 - **Tools & Technologies:** Git, Redux, Figma
-- **Other Knowledge:** Basic Python, ASP.NET, Angular, project structuring in Next.js
+- **Other Knowledge:** Basic Python, Basic C#, ASP.NET, Angular, project structuring in Next.js
 
 ---
 
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I’m a **JavaScript / React Developer** with a pa
 
 ### 📫 How to Reach Me
 - **Email:** puenaru.ionut@gmail.com
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/puenaruionut)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/puenaru-ionut/)
   
 Feel free to check out my repositories below and see what I've been working on. Let’s create something awesome together! 🚀
 
