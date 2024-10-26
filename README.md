@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ionut Marian Puenaru
+# Hi there 👋, I'm Ionut
 
 Welcome to my GitHub profile! I’m a **JavaScript / React Developer** with a passion for building web applications that are not only functional but also user-friendly and visually engaging. I’ve recently completed an intensive formation and am actively expanding my skill set in various front-end technologies. 
 
