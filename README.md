@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I’m a **JavaScript / React Developer** with a pa
 
 ---
 ### Codewars Badges
-![Codewars Badges](https://www.codewars.com/users/PuenaruIonutMarian/badges/large)
+![Codewars Badges](https://www.codewars.com/users/PuenaruIonutMarian/badges/small)
 
 ---
   
