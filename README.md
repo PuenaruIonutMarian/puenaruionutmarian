@@ -30,6 +30,12 @@ Welcome to my GitHub profile! I’m a **JavaScript / React Developer** with a pa
 ### 📫 How to Reach Me
 - **Email:** puenaru.ionut@gmail.com
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/puenaru-ionut/)
+
+---
+### Codewars Badges
+![Codewars Badges](https://www.codewars.com/users/PuenaruIonutMarian/badges/large)
+
+---
   
 Feel free to check out my repositories below and see what I've been working on. Let’s create something awesome together! 🚀
 
